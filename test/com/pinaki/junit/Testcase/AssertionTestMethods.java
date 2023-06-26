@@ -20,7 +20,10 @@ public class AssertionTestMethods {
 
       // assertEquals(true,test);
         assertTrue(test);
+        //assertFalse
         assertFalse(testFalse);
+        //AssertArrayEquals
+        assertArrayEquals(new int[]{1,2},new int[] {1,2});
 
 
 
