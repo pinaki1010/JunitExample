@@ -1,7 +1,8 @@
 
 # JUnit Example Repository
 
-([https://example.com/junit-example.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fjavacodehouse.com%2Fassets%2Fimg%2Fthumb%2FJUnit.svg&tbnid=flUNF2847qLz2M&vet=12ahUKEwjxq-jiyeH_AhUSlGMGHazvDCwQMygMegUIARD7AQ..i&imgrefurl=https%3A%2F%2Fjavacodehouse.com%2Fblog%2Fjunit-tutorial%2F&docid=nvf_2xm9wkG70M&w=750&h=422&q=junit%20&ved=2ahUKEwjxq-jiyeH_AhUSlGMGHazvDCwQMygMegUIARD7AQ))
+![JUnit](https://github.com/pinaki1010/JunitExample/assets/42297763/b576c2a8-2be6-49cd-8dee-ac238f19daa0)
+
 
 Welcome to the JUnit Example Repository! This repository is designed to provide you with a comprehensive demonstration of JUnit, a popular testing framework for Java applications. Whether you're new to JUnit or looking to brush up on your testing skills, you've come to the right place.
 
