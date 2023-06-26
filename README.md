@@ -55,6 +55,3 @@ Contributions are welcome! If you'd like to add more examples, improve existing 
 
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use the code provided here in your own projects.
 
----
-
-Please note that you'll need to replace the image URL (https://example.com/junit-example.gif) with the actual URL of the attractive GIF image you want to use. Additionally, make sure to customize the repository details (such as the repository URL and your GitHub username) according to your needs.
